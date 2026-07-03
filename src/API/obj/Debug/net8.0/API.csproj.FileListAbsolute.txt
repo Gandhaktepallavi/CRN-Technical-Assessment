@@ -182,3 +182,4 @@ C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\src\API\obj\Debug\net8
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\src\API\obj\Debug\net8.0\API.pdb
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\src\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\src\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\src\API\obj\Debug\net8.0\API.sourcelink.json

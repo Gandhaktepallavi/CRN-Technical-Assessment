@@ -195,3 +195,4 @@ C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\API.Tests\obj\De
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\API.Tests\obj\Debug\net8.0\API.Tests.pdb
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\API.Tests\obj\Debug\net8.0\API.Tests.genruntimeconfig.cache
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\API.Tests\obj\Debug\net8.0\ref\API.Tests.dll
+C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\API.Tests\obj\Debug\net8.0\API.Tests.sourcelink.json

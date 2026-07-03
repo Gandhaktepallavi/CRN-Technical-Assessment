@@ -160,3 +160,4 @@ C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\Infrastructure.T
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\Infrastructure.Tests\obj\Debug\net8.0\Infrastructure.Tests.pdb
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\Infrastructure.Tests\obj\Debug\net8.0\Infrastructure.Tests.genruntimeconfig.cache
 C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\Infrastructure.Tests\obj\Debug\net8.0\ref\Infrastructure.Tests.dll
+C:\Users\Sai\Desktop\assignments\CRN-Technical-Assessment\tests\Infrastructure.Tests\obj\Debug\net8.0\Infrastructure.Tests.sourcelink.json
